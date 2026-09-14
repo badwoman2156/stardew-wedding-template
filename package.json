@@ -15,5 +15,10 @@
   "devDependencies": {
     "vite": "^7.1.1",
     "wrangler": "^4.123.0"
+  },
+  "allowScripts": {
+    "esbuild@0.28.2": true,
+    "esbuild@0.28.1": true,
+    "workerd@1.20260811.1": true
   }
 }
